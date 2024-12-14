@@ -10,17 +10,17 @@ The project focuses on developing a sentiment analysis system using LSTM (Long S
 **Key Features and Components**  
 
 1. **Dataset**  
-   - **Source**: A comprehensive dataset of IMDB movie reviews sourced from Kaggle, containing textual reviews and corresponding user ratings.\n  
-   - **Preprocessing**: Involves text cleaning, tokenization, removal of stop words, and padding to handle varying sequence lengths. \n   
+   - **Source**: A comprehensive dataset of IMDB movie reviews sourced from Kaggle, containing textual reviews and corresponding user ratings.
+   - **Preprocessing**: Involves text cleaning, tokenization, removal of stop words, and padding to handle varying sequence lengths.  
 
-2. **Technologies Used**  \n  
-   - **Programming Language**: Python  \n  
-   - **Deep Learning Framework**: TensorFlow and Keras  \n  
-   - **Libraries**:  \n  
-     - *NLTK* and *spaCy* for preprocessing  \n  
-     - *Matplotlib* and *Seaborn* for visualizations  \n  
-     - *Pandas* and *NumPy* for data handling  \n  
-   - **Tools**: Jupyter Notebook, Google Colab  \n  
+2. **Technologies Used**  
+   - **Programming Language**: Python  
+   - **Deep Learning Framework**: TensorFlow and Keras
+   - **Libraries**:   
+     - *NLTK* and *spaCy* for preprocessing   
+     - *Matplotlib* and *Seaborn* for visualizations   
+     - *Pandas* and *NumPy* for data handling  
+   - **Tools**: Jupyter Notebook, Google Colab 
 
 3. **Model Architecture**  
    - **LSTM Network**:  
