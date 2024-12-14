@@ -1,6 +1,12 @@
 # CODTECH_task-2
+IMDB movie review analysis
+Name: Hitesh Kumar Patel
+Company: CODTECH IT Solutions
+ID: CT08DS9771
+Domain: Machine Learning
+Duration: November to December 2024
+Mentor: [Add Mentor Name]\
 
-### Updated Project Overview: Sentiment Analysis on IMDB Movie Review Ratings  
 
 **Objective**  
 The project focuses on developing a sentiment analysis system using LSTM (Long Short-Term Memory) networks to classify IMDB movie reviews as positive, negative, or neutral. By employing deep learning, the project aims to achieve higher accuracy in capturing the sequential and contextual nuances of user sentiments.  
